@@ -47,8 +47,8 @@ const Navigation = () => {
               <Wrench className="h-6 w-6" />
             </div>
             <div className="hidden sm:block">
-              <div className="font-bold text-text-primary text-lg">РемонтТехники</div>
-              <div className="text-sm text-text-secondary">Астана</div>
+              <div className="font-bold text-text-primary text-lg">Remont</div>
+              <div className="text-sm text-text-secondary">Самара</div>
             </div>
           </button>
 

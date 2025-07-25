@@ -21,7 +21,7 @@ const HeroSection = () => {
           <div className="text-left">
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-text-primary mb-6 leading-tight">
               Ремонт бытовой техники в{" "}
-              <span className="text-primary">Астане</span>
+              <span className="text-primary">Самаре</span>
               <br />
               с выездом за 60 минут
             </h1>

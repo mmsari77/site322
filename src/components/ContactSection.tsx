@@ -182,7 +182,7 @@ const ContactSection = () => {
                   </div>
                   <div>
                     <div className="font-semibold text-text-primary">Email</div>
-                    <div className="text-primary">master@repair-astana.kz</div>
+                    <div className="text-primary">master@repair-samara.ru</div>
                   </div>
                 </a>
               </div>
@@ -205,7 +205,7 @@ const ContactSection = () => {
                 <div className="flex items-center space-x-3">
                   <MapPin className="h-5 w-5 text-primary" />
                   <div>
-                    <div className="font-medium text-text-primary">Астана и пригород</div>
+                    <div className="font-medium text-text-primary">Самара и пригород</div>
                     <div className="text-sm text-text-secondary">Выезд в любую точку города</div>
                   </div>
                 </div>

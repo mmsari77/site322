@@ -20,7 +20,7 @@ const Footer = () => {
               </div>
               <div>
                 <div className="font-bold text-lg">РемонтТехники</div>
-                <div className="text-sm opacity-80">Астана</div>
+                <div className="text-sm opacity-80">Самара</div>
               </div>
             </div>
             <p className="text-sm opacity-80 leading-relaxed">
@@ -95,7 +95,7 @@ const Footer = () => {
                 className="flex items-center space-x-2 opacity-80 hover:opacity-100 hover:text-primary transition-all duration-200"
               >
                 <Mail className="h-4 w-4" />
-                <span>master@repair-astana.kz</span>
+                <span>master@repair-samara.ru</span>
               </a>
             </div>
           </div>
@@ -115,7 +115,7 @@ const Footer = () => {
               <div className="flex items-center space-x-2 opacity-80">
                 <MapPin className="h-4 w-4" />
                 <div>
-                  <div>Астана и пригород</div>
+                  <div>Самара и пригород</div>
                   <div className="text-xs opacity-60">Выезд по всему городу</div>
                 </div>
               </div>
@@ -135,7 +135,7 @@ const Footer = () => {
         <div className="border-t border-primary-foreground/20 mt-12 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <div className="text-sm opacity-80">
-              © {currentYear} РемонтТехники Астана. Все права защищены.
+              © {currentYear} РемонтТехники Самара. Все права защищены.
             </div>
             
             <div className="flex space-x-6 text-sm">
